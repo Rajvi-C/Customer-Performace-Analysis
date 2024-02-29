@@ -10,6 +10,6 @@ The following project is to analyze the Customer Performance using the Adventure
 5. Implement a dynamic ranking system to identify and celebrate your top-performing customers, boosting your business strategies.
 6. Gain valuable insights into revenue trends by examining customer gender.
 
-The above dashboard is made in 2 modes ** Light ** and ** Dark **
+The above dashboard is made in 2 modes **Light** and **Dark**
 
 Access Link of the Dashboard: [Link](https://northeastern-my.sharepoint.com/:u:/r/personal/chokshi_ra_northeastern_edu/Documents/Dashboards/CustomerPerformanceDashboard.pbix?csf=1&web=1&e=3Yot3h)
